@@ -1,3 +1,6 @@
+![Asset 3](https://github.com/user-attachments/assets/67f82923-615d-472f-9294-61fd9f37c066)
+
+
 InifinteDAO 
 
 Case of use: unites users from multiple blockchains into a single decentralized organization. Powered by 
