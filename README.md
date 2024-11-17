@@ -1,3 +1,8 @@
+InifinteDAO 
+
+Case of use: unites users from multiple blockchains into a single decentralized organization. Powered by 
+@chainlink CCIP, breaking barriers for a truly interoperable and inclusive DAO
+
 Process to deploy SC's:
 1. SourceCCIP
 2. DestinationCCIP
@@ -13,3 +18,4 @@ It´s necesary to follow Chainlink documentation to setup SourceCCIP and Destina
    Users from others blockchain can to register to the Dao via CCIP capabilities
 
    
+Project created by @simonxpe for ETHGlobal Bangkok 2024 hackathon
